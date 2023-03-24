@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div style="display: flex" style="flex-direction: column;">
+<div style="display: inline_block">
 <a href="https://github.com/kylthyq">
 <img height="150em" align="center"src="https://github-readme-stats.vercel.app/api?username=kylthyq&show_icons=true&theme=gruvbox">
 </a>
