@@ -1,17 +1,17 @@
-### Hi there 👋
 
-<div>
 <a href="https://github.com/kylthyq">
-<img height="150em" align="center"src="https://github-readme-stats.vercel.app/api?username=kylthyq&show_icons=true&theme=gruvbox">
+<img height="150em"  src="https://github-readme-stats.vercel.app/api?username=kylthyq&show_icons=true&theme=gruvbox">
 </a>
-        
+<br>
+<br>
 <a href="https://github.com/kylthyq">
-<img height="150em" align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kylthyq&layout=compact">
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kylthyq&layout=compact">
 </a>
-</div>
+
 
 ##
-<div style="display: inline_block" style="pointer-events: none;">
+
+<div style="display: inline_block">
 <a href="https://github.com/kylthyq">
     <img height="50px" width="80px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
     <img height="50px" width="80px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -23,9 +23,7 @@
 </div>
 
 ##
-
 ### Social Media
-
 <div>
 <a href="https://wa.me/5521978995824"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
