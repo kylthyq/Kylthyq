@@ -6,7 +6,7 @@
 </a>
         
 <a href="https://github.com/kylthyq">
-<img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kylthyq&layout=compact">
+<img height="150em" align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kylthyq&layout=compact">
 </a>
 </div>
 
