@@ -1,6 +1,6 @@
 
 <a href="https://github.com/kylthyq">
-<img height="180em"  src="https://github-readme-stats.vercel.app/api?username=kylthyq&show_icons=true&theme=gruvbox">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kylthyq&show_icons=true&theme=gruvbox">
 </a>
 <br>
 <a href="https://github.com/kylthyq">
@@ -12,12 +12,12 @@
 
 <div style="display: inline_block">
 <a href="https://github.com/kylthyq">
-    <img height="50px" width="80px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-    <img height="50px" width="80px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-    <img height="50px" width="80px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img height="50px" width="80px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-    <img height="50px" width="80px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
-    <img height="50px" width="80px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+    <img height="30px" width="50px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+    <img height="30px" width="50px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+    <img height="30px" width="50px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img height="30px" width="50px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <img height="30px" width="50px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
+    <img height="30px" width="50px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
    </a>
 </div>
 
