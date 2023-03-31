@@ -1,4 +1,4 @@
-## Eu sou o tal do Jão. :wave:
+# Eu sou o tal do Jão. :wave:
 
 
 ### Se quiser me busca lá também:
@@ -7,7 +7,7 @@
 <a href="https://discord.com/users/477262913984528385"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
 <a href="https://www.linkedin.com/in/jo%C3%A3o-cortat-21b665231/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-#
+
 
 <a href="https://github.com/kylthyq">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aclr11&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
